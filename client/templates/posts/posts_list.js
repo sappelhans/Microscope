@@ -4,12 +4,16 @@ var postsData = [
 		url: 'http://sachagreif.com/introducint-telescope'
 	},
 	{
-    	title: 'Meteor',
+    	title: 'Meteor: Ice and Fire',
     	url: 'http://meteor.com'
   	}, 
  	{
     	title: 'The Meteor Book',
     	url: 'http://themeteorbook.com'
+  	},
+  	{
+  		title: 'Git Gutter not working',
+  		url:  'http://whynotworking.com'
   	}
 ];
 
